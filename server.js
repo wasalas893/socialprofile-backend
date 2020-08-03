@@ -19,9 +19,7 @@ app.use('/api/profile',require('./routes/api/profile'));
 app.use('/api/posts',require('./routes/api/posts'));
 
 //Server static assets in production
-if(process.env.NODE_ENV=='production'){
-    //Set static folder
-}
+
 
 
 
