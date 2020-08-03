@@ -1,0 +1,8 @@
+{
+    "mongoURI":"mongodb://localhost:27017/new1",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"97bc112add08e23cc902",
+    "githubSecret":"19472ef746314a59caf1beb857d338ba5d4f873e"
+}
+
+
